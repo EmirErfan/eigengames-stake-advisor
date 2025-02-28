@@ -24,3 +24,5 @@ contract SimpleStaking {
         emit Unstaked(msg.sender, stakedAmount);
     }
 }
+
+

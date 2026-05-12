@@ -17,7 +17,7 @@ EigenGames is a decentralized gaming platform designed to bring transparent and 
 ### Installation  
 1. Clone the repository:  
     ```bash
-    git clone https://github.com/yourusername/EigenGames.git
+    git clone https://github.com/EmirErfan/EigenGames.git
     cd EigenGames
     ```  
 
